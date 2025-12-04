@@ -1,6 +1,6 @@
-SIMS – Store Inventory Management System
+SIMS – Stationery Inventory Management System
 
-SIMS (Store Inventory Management System) is a full-stack MERN application designed to streamline day-to-day store operations. It provides an easy-to-use dashboard for managing stock, orders, customers, staff, and business reports. The system is built with modern web technologies and supports secure authentication, role-based access, and real-time data updates.
+SIMS (Stationery Inventory Management System) is a full-stack MERN application designed to streamline day-to-day stationery operations. It provides an easy-to-use dashboard for managing stock, orders, customers, staff, and business reports. The system is built with modern web technologies and supports secure authentication, role-based access, and real-time data updates.
 
 🔥 Key Features
 
@@ -31,8 +31,3 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 Tools: Git, VS Code, REST APIs
-
-📁 Project Structure
-Internship-SIMS/
-├── sims-frontend/ # React frontend
-└── sims-backend/ # Node.js & Express backend
